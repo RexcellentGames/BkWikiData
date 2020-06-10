@@ -1,0 +1,1 @@
+A random type of bullet every shot.

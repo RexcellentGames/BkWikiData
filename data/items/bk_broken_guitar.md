@@ -1,0 +1,1 @@
+Rolling now comes with an all-dir bullet shot.

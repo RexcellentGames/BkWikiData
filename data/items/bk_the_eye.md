@@ -1,0 +1,1 @@
+A monster pet that rampages through enemies. ~~I bet it has a twin.~~
