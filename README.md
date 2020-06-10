@@ -63,7 +63,7 @@ Go ask us over at our Discord server! [discord.gg/rexcellent](https://discord.gg
 
 Egor Dorichev ([@egordorichev](https://github.com/egordorichev/))
 
-Andreas May ([@maanex](https://github.com/egordorichev/))
+Andreas May ([@maanex](https://github.com/maanex/))
 
 smashyz
 
