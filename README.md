@@ -11,4 +11,4 @@ Andreas May (@maanex)
 
 smashyz
 
-> + and you! Just open a PR with your additions!
+*+ you! Just open a PR with your additions!*
