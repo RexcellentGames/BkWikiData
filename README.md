@@ -61,9 +61,9 @@ Go ask us over at our Discord server! [discord.gg/rexcellent](https://discord.gg
 
 ## Contributors
 
-Egor Dorichev ([@egordorichev](https://github.com/egordorichev/)
+Egor Dorichev ([@egordorichev](https://github.com/egordorichev/))
 
-Andreas May ([@maanex](https://github.com/egordorichev/)
+Andreas May ([@maanex](https://github.com/egordorichev/))
 
 smashyz
 
