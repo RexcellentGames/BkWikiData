@@ -38,7 +38,17 @@ Tip: You can also preview your changes to get a rough idea of how they will look
 
 ![Image](https://media.discordapp.net/attachments/543150321686413313/720418476530991195/unknown.png)
 
-8. Click on the bold green button. Your suggestion is now submitted and if it is good enough, one of the wiki admins will publish your changes on the official Burning Knight Wiki.
+8. Click on the bold green button.
+
+9. Then, don't change anything and just continue by clicking on "Create pull request".
+
+![Image](https://media.discordapp.net/attachments/543150321686413313/720571171153903616/unknown.png)
+
+10. Again, change nothing and click "Create pull request" one last time.
+
+![Image](https://media.discordapp.net/attachments/543150321686413313/720571242138304592/unknown.png)
+
+Your suggestion is now submitted and if it is good enough, one of the wiki admins will publish your changes on the official Burning Knight Wiki.
 
 
 ### Editing an item's description
