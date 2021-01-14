@@ -75,6 +75,8 @@ Egor Dorichev ([@egordorichev](https://github.com/egordorichev/))
 
 Andreas May ([@maanex](https://github.com/maanex/))
 
+Badosz ([@badosz0](https://github.com/badosz0))
+
 smashyz
 
 *+ you! Just open a PR with your additions!*
